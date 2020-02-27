@@ -1,2 +1,2 @@
 # yinaiying
-这是尹爱颖的第一个项目
+这是yinaiying的第一个项目
